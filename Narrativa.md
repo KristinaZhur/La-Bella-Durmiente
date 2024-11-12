@@ -19,7 +19,7 @@ El principal cambio distintivo en la versión de Charles Perrault es que la prin
 
 La versión de los hermanos Grimm se basa en gran medida en el cuento de Perrault y sólo tiene un par de pequeñas diferencias. Por ejemplo, ahora hay trece hadas mágicas, y no siete, como en la versión de Perrault. Sólo se invitó a doce hadas porque el rey no tenía suficientes platos para la última. En el momento de la celebración, la decimotercera hada ofendida irrumpió repentinamente en el salón y gritó una terrible maldición. El final se mantiene prácticamente sin cambios, a excepción del beso que el príncipe le da a la princesa, tras el cual ella se despierta. Sin embargo, este beso tampoco es el motivo para levantar el hechizo, porque el príncipe llegó al reino abandonado cien años después del fatídico día.
 
-![Brothers Grimm] (images/Brothers Grimm.jpg)
+![Brothers Grimm] (Images/Brothers Grimm.jpg)
 
 Personajes femeninos:
 ---------------------
