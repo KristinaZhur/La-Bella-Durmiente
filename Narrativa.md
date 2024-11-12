@@ -3,11 +3,6 @@
 Narrativa
 =========
 
-<a href="https://www.w3schools.com">Visit W3Schools</a>
-<a href="visual.md">Visual</a>
-
-
-
 Relación con el cuento original:
 --------------------------------
 
@@ -60,7 +55,7 @@ Fauna es la hermana mediana de las tres hadas. Para Fauna, no hay nada que pueda
 
 <img title="a title" alt="Alt text" src="/Images/Fauna.jpg">
 
-Meriveza es alegre y la más joven de las hadas. Ella siempre está lista para entablar duelos mágicos no solo con Flora, sino también con Maléfica (debido a su aversión por la bruja). Originalmente quería darle felicidad a Aurora, pero debido al hechizo de Maléfica, tuvo que cambiar su regalo.
+Meriveza es la más joven de las hadas. Ella siempre está lista para entablar duelos mágicos no solo con Flora, sino también con Maléfica (debido a su aversión por la bruja). Originalmente quería darle felicidad a Aurora, pero debido al hechizo de Maléfica, tuvo que cambiar su regalo.
 
 <img title="a title" alt="Alt text" src="Images/Merryweather.jpeg">
 
