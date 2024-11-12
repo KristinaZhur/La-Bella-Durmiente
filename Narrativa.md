@@ -3,6 +3,11 @@
 Narrativa
 =========
 
+<a href="https://www.w3schools.com">Visit W3Schools</a>
+<a href="visual.md">Visual</a>
+
+
+
 Relación con el cuento original:
 --------------------------------
 
