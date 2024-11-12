@@ -6,7 +6,7 @@ La Bella Durmiente es un cuento de ballet estructurado en un prólogo y tres act
 La influencia tras los años de esta obra fue inmensa y tuvo varias representaciones a lo largo de la historia tras su creación y también fue adapatada en obras como a la que nos concierne en este momento (La bella durmiente 1959). El problema con su adaptación surgía con el simple hecho de que lo composición original fue enfocada a la estructura de la danza clásica, en la cual existe una orquestación y coreografía hechas para el transcurso de la danza que estaba dividada en una serie de actos.
 
 ### Adaptación
-Como cabe esperar las necesidades músicales entre una danza clásica del S.XIX y una película animada de finales del S.XX varian. Por lo tanto, se tuvo que adaptar la partitura original y ciertos aspectos de la orquestación, cabe destacar que la integridad y los motivos principales de la partitura se mantuvieron intactos a niveles prácticos.
+Como cabe esperar las necesidades músicales entre una danza clásica del S.XIX y una película animada de finales del S.XX varian. Por lo tanto, se tuvo que adaptar la partitura original y ciertos aspectos de la orquestación. Cabe destacar que la integridad y los motivos principales de la partitura se mantuvieron intactos a niveles prácticos.
 
 Para empezar, se añadieron canciones con letras en ocasiones inspirados en el estilo de Tchaikovsky, además, el flujo de la obra original y su orquestación se tuvo que adapatar al flujo de la narrativa propia de una película de Disney, con sus pausas, momentos dramáticos y cambios de escena, modificando con arreglos la obra para que encajara en los momentos dramáticos, dulces o de suspense dependiendo de la escena y de los personajes.
 
