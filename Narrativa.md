@@ -13,6 +13,7 @@ Básicamente, todas las versiones del cuento coinciden en gran medida entre sí.
 El principal cambio distintivo en la versión de Charles Perrault es que la princesa dormida no se despertó del beso de un príncipe amoroso, sino que se despertó ella misma cien años después. El príncipe simplemente estaba allí y la admiraba, pero no tuvo ninguna influencia en el despertar de la princesa. Sin embargo, a pesar de esto, su boda se llevó a cabo. Además, en la versión de Perrault, no fueron tres hadas, sino siete, las que acudieron a la fiesta en honor del nacimiento de la princesa. Cuando la vieja bruja también se unió a ellos, le dieron cubiertos, pero resultaron no ser tan hermosos como los demás. Ésta fue la razón de su resentimiento, y no el hecho de que se olvidaron de invitarla. También en el cuento de hadas de Pierrot, la princesa no vivía en el bosque en la casa de un leñador, sino que se quedaba a vivir en un castillo, donde a la edad de dieciséis años conoció accidentalmente a una anciana con un huso y se pinchó el dedo.
 
 ![Crarles_Perrault] (/images/Charles Perrault.png)
+![algo] (https://imagenes.20minutos.es/files/image_990_556/uploads/imagenes/2009/01/28/923346a.jpg)
 
 ### Hermanos Grimm
 
