@@ -12,14 +12,13 @@ Básicamente, todas las versiones del cuento coinciden en gran medida entre sí.
 
 El principal cambio distintivo en la versión de Charles Perrault es que la princesa dormida no se despertó del beso de un príncipe amoroso, sino que se despertó ella misma cien años después. El príncipe simplemente estaba allí y la admiraba, pero no tuvo ninguna influencia en el despertar de la princesa. Sin embargo, a pesar de esto, su boda se llevó a cabo. Además, en la versión de Perrault, no fueron tres hadas, sino siete, las que acudieron a la fiesta en honor del nacimiento de la princesa. Cuando la vieja bruja también se unió a ellos, le dieron cubiertos, pero resultaron no ser tan hermosos como los demás. Ésta fue la razón de su resentimiento, y no el hecho de que se olvidaron de invitarla. También en el cuento de hadas de Pierrot, la princesa no vivía en el bosque en la casa de un leñador, sino que se quedaba a vivir en un castillo, donde a la edad de dieciséis años conoció accidentalmente a una anciana con un huso y se pinchó el dedo.
 
-<img title="a title" alt="Alt text" src="Images/Charles Perrault.png>
-![algo] (https://imagenes.20minutos.es/files/image_990_556/uploads/imagenes/2009/01/28/923346a.jpg)
+<img title="a title" alt="Alt text" src="Images/Charles_Perrault.png>
 
 ### Hermanos Grimm
 
 La versión de los hermanos Grimm se basa en gran medida en el cuento de Perrault y sólo tiene un par de pequeñas diferencias. Por ejemplo, ahora hay trece hadas mágicas, y no siete, como en la versión de Perrault. Sólo se invitó a doce hadas porque el rey no tenía suficientes platos para la última. En el momento de la celebración, la decimotercera hada ofendida irrumpió repentinamente en el salón y gritó una terrible maldición. El final se mantiene prácticamente sin cambios, a excepción del beso que el príncipe le da a la princesa, tras el cual ella se despierta. Sin embargo, este beso tampoco es el motivo para levantar el hechizo, porque el príncipe llegó al reino abandonado cien años después del fatídico día.
 
-<img title="a title" alt="Alt text" src="Images/Brothers Grimm">
+<img title="a title" alt="Alt text" src="Images/Brothers_Grimm">
 
 Personajes femeninos:
 ---------------------
@@ -54,9 +53,7 @@ Flora es la mayor de las tres hadas. Flora afirma constantemente que el rosa es 
 
 Fauna es la hermana mediana de las tres hadas. Para Fauna, no hay nada que pueda hacerla enojar. Incluso los encantos de Maléfica no la molestan, simplemente asume que tal vez simplemente sea infeliz. Ella es amable, cariñosa, pero torpe.
 
-<img title="a title" alt="Alt text" src="/Images/Flora.jpg">
-<img title="a title" alt="Alt text" src="Images/Flora.jpg">
-
+<img title="a title" alt="Alt text" src="/Images/Fauna.jpg">
 
 Meriveza es alegre y la más joven de las hadas. Ella siempre está lista para entablar duelos mágicos no solo con Flora, sino también con Maléfica (debido a su aversión por la bruja). Originalmente quería darle felicidad a Aurora, pero debido al hechizo de Maléfica, tuvo que cambiar su regalo.
 
