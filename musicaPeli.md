@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Música (La Bella Durmiente 1959)
 ## Tchaikovsky y su influencia
 La Bella Durmiente es un cuento de ballet estructurado en un prólogo y tres actos, que fue encargado por el director de los Teatros Imperiales Iván Vsévolozhsky en 1888 y se estrenó en 1890. Tchaikovsky aceptó componer este ballet después de haber compuesto "El lago de los cisnes" y decidió componer el escenario en base a la versión del cuento de los Hermanos Grimm.
@@ -31,6 +32,8 @@ En cuanto a la atmósfera dulce y mágica destacamos el uso de tonalidades mayor
 Por otro lado, en contraposición a estas melodias encontramos la atmósfera que se crea alrededor de Maléfica, en la que los metales y las percusiones se usan en un registro grave acentuando la atmósfera sombría. Luego vemos una clara distinción entre el mundo dulce e inocente y el sombrío y peligroso.
 
 En resumen, la orquestación además de acompañar la narrativa generando las atmósferas idóneas, también enriquece dicha narración gracias a la rica obra de Tchaikovsky y su adaptación. Es gracias a este trabajo efectivo el hecho de que la música de la película atrape al espectador cuando esta cobra protagonismo. 
+
+
 
 
 
