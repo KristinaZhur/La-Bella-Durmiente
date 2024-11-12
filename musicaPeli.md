@@ -30,7 +30,7 @@ En cuanto a la atmósfera dulce y mágica destacamos el uso de tonalidades mayor
 
 Por otro lado, en contraposición a estas melodias encontramos la atmósfera que se crea alrededor de Maléfica, en la que los metales y las percusiones se usan en un registro grave acentuando la atmósfera sombría. Luego vemos una clara distinción entre el mundo dulce e inocente y el sombrío y peligroso.
 
-En resumen, la orquestación además de acompañar la narrativa generando las atmósferas idóneas, también enriquece dicha narración gracias a la rica obra de Tchaikovsky y su adaptación. Es gracias a este trabajo efectivo el hecho de que la música de la película atrape al espectador cuando esta cobra protagonismo.  
+En resumen, la orquestación además de acompañar la narrativa generando las atmósferas idóneas, también enriquece dicha narración gracias a la rica obra de Tchaikovsky y su adaptación. Es gracias a este trabajo efectivo el hecho de que la música de la película atrape al espectador cuando esta cobra protagonismo. 
 
 
 
