@@ -54,7 +54,8 @@ Flora es la mayor de las tres hadas. Flora afirma constantemente que el rosa es 
 
 Fauna es la hermana mediana de las tres hadas. Para Fauna, no hay nada que pueda hacerla enojar. Incluso los encantos de Maléfica no la molestan, simplemente asume que tal vez simplemente sea infeliz. Ella es amable, cariñosa, pero torpe.
 
-<img title="a title" alt="Alt text" src="/images/Flora.jpg">
+<img title="a title" alt="Alt text" src="/Images/Flora.jpg">
+<img title="a title" alt="Alt text" src="Images/Flora.jpg">
 !(Images/Flora.jpg)
 
 Meriveza es alegre y la más joven de las hadas. Ella siempre está lista para entablar duelos mágicos no solo con Flora, sino también con Maléfica (debido a su aversión por la bruja). Originalmente quería darle felicidad a Aurora, pero debido al hechizo de Maléfica, tuvo que cambiar su regalo.
