@@ -7,7 +7,7 @@ La indumentaria de tres hadas es lineal, geométrica mientras que su fisonomía 
 El trabajo  era elegante, señorial y de corte medieval, era preciso.
 El contraste de colores es una paleta inmensa, de un juego tan pasmoso y terrorífico (Maléfica llega a hipnotizar a todos los personajes, haciéndoles caer en la tentación, haciéndoles reflexionar junto con el espectador en la moral, en el sentido de la vida, la muerte, la vejez, el amor como paradigma erróneo).
 
-!(https://disneyanstimed.blogspot.com/2014/07/eyvind-earle-y-la-bella-durmiente.html)
+<img title = 'imagen' alt = 'aqui un imagen' src = 'images/13disney.jpg'>
 ---------------------------------------------------------
 - Escenografía
 Earle pintó sobre varias inspiraciones para redefinir un estilo de época en los paisajes, fondos, color y detalles parecidos a Botticelli o a Fra Angelico. También incluyó detalles góticos, árabes y algo de arte japonés.
