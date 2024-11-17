@@ -11,26 +11,26 @@
     <nav>
         <ul>
             <li><a href="./index.html">Inicio</a></li>
-            <li><a href="./visual.md">Visual</a></li>
-            <li><a href="./musica.md">Música</a></li>
-            <li><a href="./narrativa.md">Narrativa</a></li>
+            <li><a href="#" onclick="loadMarkdown('./markdown/visual.md')">Visual</a></li>
+            <li><a href="#" onclick="loadMarkdown('./markdown/musica.md')">Música</a></li>
+            <li><a href="#" onclick="loadMarkdown('./markdown/narrativa.md')" >Narrativa</a></li>
         </ul>
     </nav>
-    <main>
+    <main id="content">
         <header>
             <h1>La Bella Durmiente 1959</h1>
         </header>
         <section>
             <figure>
-                <a href="./visual.md"><img src="./images/analog-camera-5475817_1920.jpg" alt="Visual"></a>
+                <a href="#" onclick="loadMarkdown('./markdown/visual.md')"><img src="./images/analog-camera-5475817_1920.jpg" alt="Visual"></a>
                 <div class="texto"><p>Visual</p></div>
             </figure>
             <figure>
-                <a href="./musica.md"><img src="./images/record-player-1851576_1920.jpg" alt="Musica"></a>
+                <a href="#" onclick="loadMarkdown('./markdown/musica.md')"><img src="./images/record-player-1851576_1920.jpg" alt="Musica"></a>
                 <div class="texto"><p>Música</p></div>
             </figure>
             <figure>
-                <a href="./narrativa.md"><img src="./images/music-1970040_1920.jpg" alt="Narrativa"></a>
+                <a href="#" onclick="loadMarkdown('./markdown/narrativa.md')"><img src="./images/music-1970040_1920.jpg" alt="Narrativa"></a>
                 <div class="texto"><p>Narrativa</p></div>
             </figure>
         </section>
@@ -47,5 +47,7 @@
         </ul>
         <p>Derechos reservados &copy; 2024</p>
     </footer>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="js/markdown.js"></script>
 </body>
 </html>

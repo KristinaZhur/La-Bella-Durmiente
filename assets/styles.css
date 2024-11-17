@@ -119,3 +119,6 @@ ul+p {
 ul {
     list-style-type: none;
 }
+#content{
+    padding: 1em;
+}
